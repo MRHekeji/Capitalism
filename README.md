@@ -11,9 +11,9 @@ action alse include participating and focos
 
 也包括参与和不停明确。
 
-action need strategy and timeline. 
+action need strategy and timeline. Since you can't win a war without battles.
 
-行动要求有严格的策略和时间节点。
+行动要求有严格的策略和时间节点。就像没有哪个战争的胜利不是建立在无数战役的基础上的。
 
 THIS PROJECT is like others, can be inspired by one and other milestones.
 
