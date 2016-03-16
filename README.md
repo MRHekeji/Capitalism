@@ -15,7 +15,7 @@ action need strategy and timeline.
 
 行动要求有严格的策略和时间节点。
 
-THIS PROJECT is like others, can inspired by one and other milestones.
+THIS PROJECT is like others, can be inspired by one and other milestones.
 
 该项目和别的项目并无不同，只有持续不断的里程碑节点，才是激励该项目推进的不二动力。
 
