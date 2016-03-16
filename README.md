@@ -25,3 +25,7 @@ THIS PROJECT is like others, can be inspired by one and other milestones.
 该项目和别的项目并无不同，只有持续不断的里程碑节点，才是激励该项目推进的不二动力。
 
 Raevo  March 16st 2016
+
+ps: I am a maker :), not a pyramid salesman :(
+
+注解：我是个行者，不是搞传销的。
