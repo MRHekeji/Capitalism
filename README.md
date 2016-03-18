@@ -26,4 +26,4 @@
       注解：我是个行者，不是搞传销的。
 
 ==================================================================================
-![house](https://github.com/MRHekeji/Capitalism/blob/master/001_Homer/homer_quote.jpg)
+![house](https://github.com/MRHekeji/Capitalism/blob/master/001_Homer/homer_quote.png)
