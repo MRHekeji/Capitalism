@@ -3,6 +3,7 @@
       这个仓库保管了我们自己开发的用来实践资本主义（酷吧<(￣︶￣)>）的软件和脚本。但是不局限于开发工作，而是所有我们尝试过的东西。
 
 ### the image align center: http://stackoverflow.com/questions/12090472/github-readme-md-center-image
+<p align="center"> 
   <img src="https://github.com/MRHekeji/Capitalism/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/1440320006_0W4Dt9.jpg" alt="Sublime's custom image"/>
 </p>
       Project about Capitalism: we should operate it!
