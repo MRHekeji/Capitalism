@@ -8,7 +8,7 @@
       关于追求资本和财富的项目。行动而不是口号。
 
       action include operate the people, the money and the instance. 
-	行动包括经营人，钱和事。
+      行动包括经营人，钱和事。
 
       action alse include participating and focos.
       也包括永不停歇地参与和永无止境地明确。
