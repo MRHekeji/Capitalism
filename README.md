@@ -31,3 +31,6 @@ Raevo  March 16st 2016
 ps: I am a maker :), not a pyramid salesman :(
 
 注解：我是个行者，不是搞传销的。
+
+==================================================================================
+![house](https://github.com/MRHekeji/Capitalism/blob/master/Pilot/homer_quote.jpg)
